@@ -1,0 +1,16 @@
+ Cluster based retrieval 
+
+ zone : TITLE, free text query is: Trump visits india
+ zone : PUBLICATION, free text query is: CNN
+ zone : AUTHOR, free text query is: David
+ zone : CONTENT, free text query is: India Narendra Modi
+Top 8 docs are :
+doc  name: ../news_docs/53522.txt  score: 1.67392 out of 4.00 
+doc  name: ../news_docs/56650.txt  score: 1.64856 out of 4.00 
+doc  name: ../news_docs/51928.txt  score: 1.58713 out of 4.00 
+doc  name: ../news_docs/51331.txt  score: 1.58713 out of 4.00 
+doc  name: ../news_docs/56410.txt  score: 1.58713 out of 4.00 
+doc  name: ../news_docs/54348.txt  score: 1.58713 out of 4.00 
+doc  name: ../news_docs/57795.txt  score: 1.58713 out of 4.00 
+doc  name: ../news_docs/58796.txt  score: 1.58713 out of 4.00 
+ The retrieval time is :127 milliseconds 

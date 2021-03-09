@@ -1,0 +1,17 @@
+Exact top k Retrieval
+
+ zone : TITLE, free text query is: The First Lady
+ zone : PUBLICATION, free text query is: NewYork Times
+ zone : AUTHOR, free text query is: 
+ zone : CONTENT, free text query is: Melania Trump
+Top 9 docs are :
+doc  name: ../news_docs/21627.txt  score: 1.37173 out of 4.00 
+doc  name: ../news_docs/25248.txt  score: 1.3387 out of 4.00 
+doc  name: ../news_docs/22147.txt  score: 1.27495 out of 4.00 
+doc  name: ../news_docs/17839.txt  score: 1.2302 out of 4.00 
+doc  name: ../news_docs/21702.txt  score: 1.18467 out of 4.00 
+doc  name: ../news_docs/18966.txt  score: 1.13615 out of 4.00 
+doc  name: ../news_docs/19371.txt  score: 1.13575 out of 4.00 
+doc  name: ../news_docs/17814.txt  score: 1.09854 out of 4.00 
+doc  name: ../news_docs/18940.txt  score: 1.08566 out of 4.00 
+ The retrieval time is :125 milliseconds 

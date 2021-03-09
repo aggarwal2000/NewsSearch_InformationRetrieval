@@ -1,0 +1,16 @@
+Exact top k Retrieval
+
+ zone : TITLE, free text query is: Hello all
+ zone : PUBLICATION, free text query is: New York Times
+ zone : AUTHOR, free text query is: david
+ zone : CONTENT, free text query is: People Health and wealth
+Top 8 docs are :
+doc  name: ../news_docs/25778.txt  score: 1.61145 out of 4.00 
+doc  name: ../news_docs/22111.txt  score: 1.47566 out of 4.00 
+doc  name: ../news_docs/18044.txt  score: 1.47352 out of 4.00 
+doc  name: ../news_docs/17814.txt  score: 1.43323 out of 4.00 
+doc  name: ../news_docs/22815.txt  score: 1.43205 out of 4.00 
+doc  name: ../news_docs/24044.txt  score: 1.43121 out of 4.00 
+doc  name: ../news_docs/24268.txt  score: 1.42929 out of 4.00 
+doc  name: ../news_docs/25059.txt  score: 1.41934 out of 4.00 
+ The retrieval time is :46803 milliseconds 

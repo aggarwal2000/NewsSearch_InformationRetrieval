@@ -1,0 +1,15 @@
+Exact top k Retrieval
+
+ zone : TITLE, free text query is: fashion show
+ zone : PUBLICATION, free text query is: New York Times
+ zone : AUTHOR, free text query is: 
+ zone : CONTENT, free text query is: Ramp Walk
+Top 7 docs are :
+doc  name: ../news_docs/17399.txt  score: 1.6335 out of 4.00 
+doc  name: ../news_docs/18193.txt  score: 1.59621 out of 4.00 
+doc  name: ../news_docs/22817.txt  score: 1.50794 out of 4.00 
+doc  name: ../news_docs/24023.txt  score: 1.441 out of 4.00 
+doc  name: ../news_docs/18933.txt  score: 1.42047 out of 4.00 
+doc  name: ../news_docs/20192.txt  score: 1.37652 out of 4.00 
+doc  name: ../news_docs/20509.txt  score: 1.37097 out of 4.00 
+ The retrieval time is :46501 milliseconds 
